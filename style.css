@@ -1,0 +1,15 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  body {
+    width: 60%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+  }
+
+  .lastResult {
+    color: azure;
+    padding: 4px;
+  }
